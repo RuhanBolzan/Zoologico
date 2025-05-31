@@ -12,3 +12,4 @@ C:\Users\ruhan\OneDrive\Área de Trabalho\Zoologico\obj\Debug\net9.0\refint\Zool
 C:\Users\ruhan\OneDrive\Área de Trabalho\Zoologico\obj\Debug\net9.0\Zoologico.pdb
 C:\Users\ruhan\OneDrive\Área de Trabalho\Zoologico\obj\Debug\net9.0\Zoologico.genruntimeconfig.cache
 C:\Users\ruhan\OneDrive\Área de Trabalho\Zoologico\obj\Debug\net9.0\ref\Zoologico.dll
+C:\Users\ruhan\OneDrive\Área de Trabalho\Zoologico\obj\Debug\net9.0\Zoologico.sourcelink.json

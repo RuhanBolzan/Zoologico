@@ -12,7 +12,7 @@ public abstract class Animal
         Peso = peso;
         Especie = especie;
     }
-    public abstract void EmitirSom();
-    public abstract void Movimentar();
+public abstract void EmitirSom();
+public abstract void Movimentar();
 
 }
